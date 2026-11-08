@@ -1,0 +1,6 @@
+[package]
+name = "m01-a05-shadowing-e-escopo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

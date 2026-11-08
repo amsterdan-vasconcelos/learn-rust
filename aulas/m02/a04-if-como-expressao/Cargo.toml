@@ -1,0 +1,6 @@
+[package]
+name = "m02-a04-if-como-expressao"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

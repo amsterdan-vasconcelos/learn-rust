@@ -1,0 +1,6 @@
+[package]
+name = "m02-a01-assinaturas-de-funcoes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
